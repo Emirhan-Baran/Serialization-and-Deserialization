@@ -1,0 +1,15 @@
+C:\Users\emrhn\DeserializeData\obj\Debug\net10.0\DeserializeData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrhn\DeserializeData\obj\Debug\net10.0\DeserializeData.AssemblyInfoInputs.cache
+C:\Users\emrhn\DeserializeData\obj\Debug\net10.0\DeserializeData.AssemblyInfo.cs
+C:\Users\emrhn\DeserializeData\obj\Debug\net10.0\DeserializeData.csproj.CoreCompileInputs.cache
+C:\Users\emrhn\DeserializeData\obj\Debug\net10.0\DeserializeData.sourcelink.json
+C:\Users\emrhn\DeserializeData\bin\Debug\net10.0\DeserializeData.exe
+C:\Users\emrhn\DeserializeData\bin\Debug\net10.0\DeserializeData.deps.json
+C:\Users\emrhn\DeserializeData\bin\Debug\net10.0\DeserializeData.runtimeconfig.json
+C:\Users\emrhn\DeserializeData\bin\Debug\net10.0\DeserializeData.dll
+C:\Users\emrhn\DeserializeData\bin\Debug\net10.0\DeserializeData.pdb
+C:\Users\emrhn\DeserializeData\obj\Debug\net10.0\DeserializeData.dll
+C:\Users\emrhn\DeserializeData\obj\Debug\net10.0\refint\DeserializeData.dll
+C:\Users\emrhn\DeserializeData\obj\Debug\net10.0\DeserializeData.pdb
+C:\Users\emrhn\DeserializeData\obj\Debug\net10.0\DeserializeData.genruntimeconfig.cache
+C:\Users\emrhn\DeserializeData\obj\Debug\net10.0\ref\DeserializeData.dll
